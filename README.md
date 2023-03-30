@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</div>
