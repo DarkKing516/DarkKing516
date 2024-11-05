@@ -10,11 +10,11 @@ I'm a driven software developer with hands-on experience in database management,
 ---
 
 ### 🛠️ Technical Skills
-- **Languages:** Python, JavaScript, SQL
-- **Frameworks & Libraries:** Django, Flask, React
+- **Languages:** Python, JavaScript, SQL, PHP
+- **Frameworks & Libraries:** Django, Flask, React, Next.Js, Flutter, Node.Js
 - **Tools & Technologies:** Docker, Git, Linux, Kali Linux, VS Code
-- **Databases:** MySQL, PostgreSQL
-- **Others:** Web Scraping, API Integration, Networking Basics
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server
+- **Others:** Web Scraping, API Integration, Networking Basics, MVN
 
 ---
 
