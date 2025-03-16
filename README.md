@@ -34,7 +34,7 @@ Exploring cloud technologies, improving proficiency in React, and diving deeper 
 ### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhoncontreras516/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/DarkKing516)
-
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white)](https://gitlab.com/DarkKing516)
 ---
 
 ### ⚡ Fun Facts
